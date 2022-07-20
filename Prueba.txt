@@ -2,3 +2,4 @@ Este es un repositorio de prueba
 
 Para crear un repositorio privado
 
+Ya se crearon la llave publica y la llave privada
